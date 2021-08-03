@@ -3,5 +3,9 @@ h1{
 ;
 justify-content: center;
 background-color: beige;
-text-align: center;
+text-align: right;
+
+}
+.jolie{
+    display: flex;
 }
